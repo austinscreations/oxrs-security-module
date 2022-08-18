@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0)*%
+%TF.CreationDate,2022-08-06T01:30:50-04:00*%
+%TF.ProjectId,port PWR extention,706f7274-2050-4575-9220-657874656e74,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Other,Comment*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.0)) date 2022-08-06 01:30:50*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.150000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H1*%
+X34200000Y-26000000D02*
+G75*
+G03*
+X34200000Y-26000000I-3200000J0D01*
+G01*
+%TO.C,H2*%
+X66200000Y-26000000D02*
+G75*
+G03*
+X66200000Y-26000000I-3200000J0D01*
+G01*
+%TD*%
+M02*
