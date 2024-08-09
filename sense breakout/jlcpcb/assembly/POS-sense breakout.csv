@@ -1,5 +1,5 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-J1,Conn_01x02_Female,PinHeader_1x02_P2.54mm_Vertical,39.525,-37.2,90.0,top
+J1,Conn_01x02_Female,PinHeader_1x02_P2.54mm_Vertical,40.5,-37.2,0.0,top
 R1,10k,R_0603_1608Metric,40.8,-40.6,0.0,top
 R2,4k7,R_0603_1608Metric,31.7,-40.6,180.0,top
 RJ1,RC01374,RC01374,36.0,-27.7,180.0,top
