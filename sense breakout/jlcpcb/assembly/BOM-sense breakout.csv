@@ -2,5 +2,5 @@ Comment,Designator,Footprint,LCSC
 6pinblock,ST1,6pinblock,C192781
 4k7,R2,R_0603_1608Metric,C23162
 10k,R1,R_0603_1608Metric,C25804
-Conn_01x02_Female,J1,PinHeader_1x02_P2.54mm_Vertical,C2829889
+Conn_01x02_Female,J1,PinHeader_1x02_P2.54mm_Vertical,C492401 
 RC01374,RJ1,RC01374,C385834
